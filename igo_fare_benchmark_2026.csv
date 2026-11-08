@@ -1,0 +1,50 @@
+city,platform,vehicle_type,base_fare_inr,per_km_rate_inr,min_fare_inr,source_note,confidence,date_collected
+Hyderabad,Rapido,Bike,12,6.3,15.0,rajuginni 2026 (0-7km),verified,2026-10-23
+Hyderabad,Rapido,Bike,12,8.4,15.0,rajuginni 2026 (7+km),verified,2026-10-23
+Mumbai,Rapido,Bike,15,10.27,15.0,public listing (after 1.5km),verified,2026-10-23
+Bengaluru,Rapido,Bike,15,9.5,15.0,national range midpoint,estimate,2026-10-23
+Delhi NCR,Rapido,Bike,15,9.5,15.0,national range midpoint,estimate,2026-10-23
+Pune,Rapido,Bike,15,9.5,15.0,national range midpoint,estimate,2026-10-23
+Chennai,Rapido,Bike,15,9.5,15.0,national range midpoint,estimate,2026-10-23
+Bengaluru,Rapido,Auto,30,8.5,40.0,national range (7-10/km),estimate,2026-10-23
+Hyderabad,Rapido,Auto,30,8.5,40.0,national range (7-10/km),estimate,2026-10-23
+Mumbai,Rapido,Auto,35,9.0,45.0,Mumbai auto adjusted,estimate,2026-10-23
+Delhi NCR,Rapido,Auto,30,8.5,40.0,national range (7-10/km),estimate,2026-10-23
+Pune,Rapido,Auto,30,8.5,40.0,national range (7-10/km),estimate,2026-10-23
+Chennai,Rapido,Auto,30,8.5,40.0,national range (7-10/km),estimate,2026-10-23
+Bengaluru,Uber,Go,45,10.0,60.0,2026 guide (8-12 midpoint),estimate,2026-10-23
+Hyderabad,Uber,Go,45,10.0,60.0,2026 guide (8-12 midpoint),estimate,2026-10-23
+Mumbai,Uber,Go,45,10.0,60.0,Mumbai 8km ~200-320,estimate,2026-10-23
+Delhi NCR,Uber,Go,45,10.0,60.0,2026 guide (8-12 midpoint),estimate,2026-10-23
+Pune,Uber,Go,45,10.0,60.0,2026 guide (8-12 midpoint),estimate,2026-10-23
+Chennai,Uber,Go,45,10.0,60.0,2026 guide (8-12 midpoint),estimate,2026-10-23
+Bengaluru,Uber,Moto,15,9.0,20.0,national range (7-10/km),estimate,2026-10-23
+Hyderabad,Uber,Moto,15,9.0,20.0,national range (7-10/km),estimate,2026-10-23
+Mumbai,Uber,Moto,15,9.5,20.0,Mumbai bike higher slab,estimate,2026-10-23
+Delhi NCR,Uber,Moto,15,9.0,20.0,national range (7-10/km),estimate,2026-10-23
+Pune,Uber,Moto,15,9.0,20.0,national range (7-10/km),estimate,2026-10-23
+Chennai,Uber,Moto,15,9.0,20.0,national range (7-10/km),estimate,2026-10-23
+Bengaluru,Ola,Mini,50,9.0,80.0,2026 guide (7-11 midpoint),estimate,2026-10-23
+Hyderabad,Ola,Mini,50,9.0,80.0,2026 guide (7-11 midpoint),estimate,2026-10-23
+Mumbai,Ola,Mini,50,10.0,80.0,Mumbai AC premium,estimate,2026-10-23
+Delhi NCR,Ola,Mini,50,9.0,80.0,2026 guide (7-11 midpoint),estimate,2026-10-23
+Pune,Ola,Mini,50,9.0,80.0,2026 guide (7-11 midpoint),estimate,2026-10-23
+Chennai,Ola,Mini,50,9.0,80.0,2026 guide (7-11 midpoint),estimate,2026-10-23
+Bengaluru,Ola,Auto,30,15.0,50.0,GitHub Bengaluru rate card,verified,2026-10-23
+Hyderabad,Ola,Auto,30,13.5,50.0,national range (12-15),estimate,2026-10-23
+Mumbai,Ola,Auto,30,13.5,50.0,national range (12-15),estimate,2026-10-23
+Delhi NCR,Ola,Auto,30,13.5,50.0,national range (12-15),estimate,2026-10-23
+Pune,Ola,Auto,30,13.5,50.0,national range (12-15),estimate,2026-10-23
+Chennai,Ola,Auto,30,13.5,50.0,national range (12-15),estimate,2026-10-23
+Bengaluru,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Hyderabad,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Mumbai,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Delhi NCR,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Pune,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Chennai,Porter,2W,40,,,Porter 2W starting price,verified,2026-10-23
+Bengaluru,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23
+Hyderabad,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23
+Mumbai,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23
+Delhi NCR,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23
+Pune,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23
+Chennai,Porter,3W,160,,,Porter 3W starting price,verified,2026-10-23

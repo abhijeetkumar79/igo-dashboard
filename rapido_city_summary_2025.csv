@@ -1,0 +1,6 @@
+Pickup_Location,total_bookings,completed,cancelled,incomplete,avg_fare,avg_distance_km,avg_time_min,avg_v_tat,avg_c_tat,completion_pct,mean_per_km
+Bengaluru,6038,4986,714,338,139.42,13.2,32.22,17.1,22.2,82.58,16.7
+Chennai,5928,4872,698,358,140.42,13.08,32.19,16.76,21.97,82.19,17.31
+Delhi,6092,5006,720,366,140.77,13.22,32.15,16.92,22.11,82.17,16.91
+Hyderabad,6052,4963,733,356,139.79,13.19,32.19,17.06,21.94,82.01,16.94
+Pune,5890,4814,694,382,139.12,13.3,32.06,16.92,21.96,81.73,16.4
